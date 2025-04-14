@@ -4,7 +4,7 @@ const questions = [
     "mau mati kapan?",
     "kapan nikah?",
     "yang dapat pertanyaan ini, harus push up 20x sambil nyanyi lagu KSI",
-    "kamu mau gak jadi pacarku?",
+    "kamu temennya walid ya",
   ];
   ``
   function getRandomQuestion() {
